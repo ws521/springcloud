@@ -1,0 +1,12 @@
+server:
+  port: 8022
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 127.168.1.154.8080
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+  application:
+    name: user-nacos

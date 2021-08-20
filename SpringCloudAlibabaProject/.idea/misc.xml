@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/student-nacos-8020/pom.xml" />
+        <option value="$PROJECT_DIR$/user-nacos-8022/pom.xml" />
+        <option value="$PROJECT_DIR$/user-nacos-8023/pom.xml" />
+        <option value="$PROJECT_DIR$/student-nacos-feign-8021/pom.xml" />
+        <option value="$PROJECT_DIR$/user-sentinel-8024/pom.xml" />
+        <option value="$PROJECT_DIR$/user-seata-8025/pom.xml" />
+        <option value="$PROJECT_DIR$/children-seata-8026/pom.xml" />
+        <option value="$PROJECT_DIR$/user-gateway-8027/pom.xml" />
+        <option value="$PROJECT_DIR$/student-nacos-config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

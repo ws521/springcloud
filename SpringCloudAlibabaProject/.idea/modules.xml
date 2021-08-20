@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/children-seata-8026/children-seata-8026.iml" filepath="$PROJECT_DIR$/children-seata-8026/children-seata-8026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-nacos-8020/student-nacos-8020.iml" filepath="$PROJECT_DIR$/student-nacos-8020/student-nacos-8020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-nacos-config/student-nacos-config.iml" filepath="$PROJECT_DIR$/student-nacos-config/student-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-nacos-feign-8021/student-nacos-feign-8021.iml" filepath="$PROJECT_DIR$/student-nacos-feign-8021/student-nacos-feign-8021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-gateway-8027/user-gateway-8027.iml" filepath="$PROJECT_DIR$/user-gateway-8027/user-gateway-8027.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-nacos-8022/user-nacos-8022.iml" filepath="$PROJECT_DIR$/user-nacos-8022/user-nacos-8022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-nacos-8023/user-nacos-8023.iml" filepath="$PROJECT_DIR$/user-nacos-8023/user-nacos-8023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-seata-8025/user-seata-8025.iml" filepath="$PROJECT_DIR$/user-seata-8025/user-seata-8025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-sentinel-8024/user-sentinel-8024.iml" filepath="$PROJECT_DIR$/user-sentinel-8024/user-sentinel-8024.iml" />
+    </modules>
+  </component>
+</project>

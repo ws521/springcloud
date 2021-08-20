@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/children-seata-8026" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/children-seata-8026/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-8020" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-8020/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-feign-8021" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-nacos-feign-8021/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-gateway-8027" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-gateway-8027/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-nacos-8022" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-nacos-8022/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-nacos-8023" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-nacos-8023/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-seata-8025" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-seata-8025/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-sentinel-8024" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-sentinel-8024/src/main/java" charset="UTF-8" />
+  </component>
+</project>

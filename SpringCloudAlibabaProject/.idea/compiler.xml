@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="children-seata-8026" />
+        <module name="student-nacos-8020" />
+        <module name="student-nacos-config" />
+        <module name="student-nacos-feign-8021" />
+        <module name="user-gateway-8027" />
+        <module name="user-nacos-8022" />
+        <module name="user-nacos-8023" />
+        <module name="user-seata-8025" />
+        <module name="user-sentinel-8024" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="children-seata-8026" target="1.8" />
+      <module name="student-nacos-8020" target="1.8" />
+      <module name="student-nacos-config" target="1.8" />
+      <module name="student-nacos-feign-8021" target="1.8" />
+      <module name="user-gateway-8027" target="1.8" />
+      <module name="user-nacos-8022" target="1.8" />
+      <module name="user-nacos-8023" target="1.8" />
+      <module name="user-seata-8025" target="1.8" />
+      <module name="user-sentinel-8024" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="children-seata-8026" options="-parameters" />
+      <module name="student-nacos-8020" options="-parameters" />
+      <module name="student-nacos-config" options="-parameters" />
+      <module name="student-nacos-feign-8021" options="-parameters" />
+      <module name="user-gateway-8027" options="-parameters" />
+      <module name="user-nacos-8022" options="-parameters" />
+      <module name="user-nacos-8023" options="-parameters" />
+      <module name="user-seata-8025" options="-parameters" />
+      <module name="user-sentinel-8024" options="-parameters" />
+    </option>
+  </component>
+</project>
